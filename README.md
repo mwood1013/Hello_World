@@ -1,2 +1,3 @@
-# Hello_World
-Hello_World to turn in
+print("Hello World")
+
+print("My name is Mitch Wood and this is for CPSC2100")
